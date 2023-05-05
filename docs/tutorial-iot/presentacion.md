@@ -13,5 +13,4 @@ sidebar_position: 1
   ![Esp8266](/img/ESP8266.jpg)
 
  
- ¡Empieza ya!
- ! Te esperamos  por aqui¡
+ 
