@@ -14,4 +14,4 @@ sidebar_position: 1
 
  
  ¡Empieza ya!
- ! Te esperramos¡
+ ! Te esperamos¡
